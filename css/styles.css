@@ -10,7 +10,7 @@ button {
 }
 /* body */
 body {
-    font-family: 'Roboto', sans-serif;
+     font-family: 'Roboto','Raleway',sans-serif; 
     color: #434455;
     background-color: #FFF;
     line-height: 1.5;
@@ -22,7 +22,6 @@ header {
 }
 .logo {
     color: var(--IRIS, #4D5AE5);
-    font-family: Raleway;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
@@ -32,7 +31,6 @@ header {
 }
 .text-logo {
     color: var(--NAVY-BLUE, #2E2F42);
-    font-family: Raleway;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
@@ -94,9 +92,6 @@ color: var(--WHITE, #FFF);
 background: var(--OCEAN, #404BBF);
 }
 /* S2ction */
-.second-section {
- line-height: 1.2;
-}  
 .constant-header {
     color: var(--NAVY-BLUE, #2E2F42);
     text-align: center;
@@ -136,7 +131,6 @@ background: var(--OCEAN, #404BBF);
   }
   .logo-footer {
     color: var(--IRIS, #4D5AE5);
-    font-family: Raleway;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
@@ -146,7 +140,6 @@ background: var(--OCEAN, #404BBF);
   }
   .logo-text-footer {
     color: var(--CLOUD, #F4F4FD);
-    font-family: Raleway;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
