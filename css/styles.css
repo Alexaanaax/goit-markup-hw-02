@@ -100,7 +100,7 @@ background: var(--OCEAN, #404BBF);
     text-align: center;
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.2;
+    line-height: 1.11;
     /* 111.111% */
     letter-spacing: 0.02em;
     text-transform: capitalize;
@@ -109,7 +109,7 @@ background: var(--OCEAN, #404BBF);
     color: var(--NAVY-BLUE, #2E2F42);
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.22;
+    line-height: 1.2;
     /* 120% */
     letter-spacing: 0.02em;
 }
